@@ -23,11 +23,11 @@ Files will then be sorted according to their last modified date, with the older 
 
 After this step, you'll be asked to either keep and use the directory name as the prefix or enter a new one.
 At the moment, the prefix must meet those requirements :
-	- Being 6 characters long
-	- Containing only digits
-	- Starting by '16'
-When the prefix is validated, files are renamed according to the following template :
-`16XXXX-YYYY` where 16XXXX is the prefix and YYYY a number from 0001 to 9999.
+- Being 6 characters long
+- Containing only digits
+- Starting by '16'
+
+When the prefix is validated, files are renamed according to the following template : `16XXXX-YYYY`, where 16XXXX is the prefix and YYYY a number from 0001 to 9999.
 
 Once the renaming process is done, the program will wait until it's closed by the user.
 
