@@ -18,9 +18,10 @@ public class Application {
 		}
 	}
 	
-	// TODO : Ajouter la licence et le readme au git
+	// TODO : Ajouter une limite pour les fichiers	
+	// TODO : Ajouter la licence au git
 	// TODO : Voir pourquoi le JLabel est invisible au dessus de la JProgressBar
-	// TODO : Mettre les Strings en français
+	// TODO : Mettre un système de langue
 	// TODO : Annuler une action fait revenir à l'était précédent
 	// TODO : Ajouter un système de contraintes pour la vérification du préfix
 	// TODO : Possibilité de changer le template
